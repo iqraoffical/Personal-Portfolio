@@ -8,12 +8,12 @@ function Herodiv() {
     <div className="header-container">
       <div className="hero-right-div">
         <h1 className="hero-title">
-       <span className="name">   Hi,I'm  Iqra a passionate Web Developer,
+       <span className="name">   Hi,I am Iqra a passionate Web Developer,
        and Web Designer{" "}</span>
         </h1>
         <p className="paragraph">
-          I'm dedicated to building engaging, user-friendly websites and web
-          applications. I create responsive,and visually appealing digital
+          I am dedicated to building engaging, user-friendly websites and web
+          applications.I create responsive,and visually appealing digital
           experiences.
         </p>
 

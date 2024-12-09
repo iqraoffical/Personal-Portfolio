@@ -23,7 +23,7 @@ export default function About() {
           I specialize in designing and developing highly interactive and
           responsive web solutions that deliver seamless user experiences. With
           a focus on innovation and functionality, I bring ideas to life through
-          engaging and dynamic web development.Currently I'm learning more
+          engaging and dynamic web development.Currently I am learning more
           expertise in skills at GIAIC.{" "}
         </p>
       </div>

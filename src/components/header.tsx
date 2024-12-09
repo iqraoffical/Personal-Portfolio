@@ -8,7 +8,7 @@ const Header = () => {
     <nav>
       <div className="header">
         {/* Left Section */}
-        <div className="left">Iqra's Portfolio</div>
+        <div className="left">IqraIt&apos;s Portfolio</div>
         {/* Right Section */}
         <div className="header-right-div">
           <ul className="header-links">
