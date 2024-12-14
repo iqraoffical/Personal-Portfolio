@@ -29,7 +29,7 @@ export default function Home() {
 
           <div className="card">
             <Image
-              src={"/images/cofee.png"}
+              src={"/images/ATS.png"}
               width={200}
               height={200}
               alt="resume"
@@ -37,20 +37,20 @@ export default function Home() {
             ></Image>
             <div>
               <a
-                href="https://dribbble.com/tags/coffee-shop-website"
+                href="https://resume-builder-five-indol.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="resume-link"
               >
-                <h3>Visit Cofee Shop</h3>
-                <p>This is a cofee shop website template.</p>
+                 <h3>Visit ATS Downloadable Resume Builder</h3>
+                <p>This is a Resume Builder to generate client resume.</p>
               </a>
             </div>
           </div>
 
           <div className="card">
             <Image
-              src={"/images/login.png"}
+              src={"/images/coffee website.png"}
               width={200}
               height={200}
               alt="resume"
@@ -58,16 +58,14 @@ export default function Home() {
             ></Image>
             <div>
               <a
-                href="https://login-account-website.vercel.app/"
+                href="https://coffee-business-website-awmt.vercel.app/our-services"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="resume-link"
               >
-                <h3>Visit Login Form</h3>
-                <p>
-                  This is a form to make client to access or login for any
-                  website.
-                </p>
+                <h3>Visit Cofee Shop</h3>
+                <p>This is a cofee shop website template.</p>
+               
               </a>
             </div>
           </div>

@@ -8,8 +8,10 @@ function Herodiv() {
     <div className="header-container">
       <div className="hero-right-div">
         <h1 className="hero-title">
-       <span className="name">   Hi,I am Iqra a passionate Web Developer,
-       and Web Designer{" "}</span>
+          <span className="name">
+            {" "}
+            Hi,I am Iqra a passionate Web Developer, and Web Designer{" "}
+          </span>
         </h1>
         <p className="paragraph">
           I am dedicated to building engaging, user-friendly websites and web
@@ -19,20 +21,19 @@ function Herodiv() {
 
         <div className="custom-container">
           <button>
-            <a href="#" className="custom-div">
-              Hire Me
+            <a href="/contact" className="custom-div">
+              Contact Me
             </a>
           </button>
 
           <button>
-  <a href="/public/to/Resume.html" className="custom-div" download>
-    Download CV
-  </a>
-</button>
+            <a href="/public/to/Resume.html" className="custom-div" download>
+              Download CV
+            </a>
+          </button>
         </div>
       </div>
 
-    
       <div className="header-boxes-con">
         <Image
           className="header-image"
@@ -42,8 +43,6 @@ function Herodiv() {
           alt="professionalimage"
         ></Image>
       </div>
-    
-    
     </div>
   );
 }
