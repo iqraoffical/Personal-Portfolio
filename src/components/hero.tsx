@@ -25,10 +25,10 @@ function Herodiv() {
           </button>
 
           <button>
-            <a href="#" className="custom-div">
-              Download CV
-            </a>
-          </button>
+  <a href="/public/to/Resume.html" className="custom-div" download>
+    Download CV
+  </a>
+</button>
         </div>
       </div>
 
